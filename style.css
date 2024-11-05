@@ -1,8 +1,13 @@
 p{
-    color:white;
+    color:rgb(255, 255, 255);
     font-size:16pt;
 }
 body{
     color:cyan;
-    background-color:rgb(20, 89, 126);
+    background-color:rgb(106, 99, 204);
+}
+div
+
+{
+    font-size:large
 }
